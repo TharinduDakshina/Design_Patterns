@@ -1,4 +1,4 @@
-package cretional_patterns;
+package cretional_patterns.singleton;
 
 public class EagerInitialization {
     private static final EagerInitialization instance=new EagerInitialization();

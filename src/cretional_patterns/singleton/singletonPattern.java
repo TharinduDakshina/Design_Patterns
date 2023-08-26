@@ -1,4 +1,4 @@
-package cretional_patterns;
+package cretional_patterns.singleton;
 
 public class singletonPattern {
     public static void main(String[] args) {

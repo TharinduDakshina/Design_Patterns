@@ -1,4 +1,4 @@
-package cretional_patterns;
+package cretional_patterns.singleton;
 
 public class DoubleCheckInitialization {
     private static volatile DoubleCheckInitialization instance=null;
