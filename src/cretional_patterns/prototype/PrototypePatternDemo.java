@@ -9,7 +9,5 @@ public class PrototypePatternDemo {
 
         Shape conedShape2=ShapeCache.getShape("2");
         System.out.println("Shape : "+conedShape2.getType());
-
-
     }
 }
