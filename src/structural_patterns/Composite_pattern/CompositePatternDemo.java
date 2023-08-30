@@ -1,4 +1,4 @@
-package structural_patterns;
+package structural_patterns.Composite_pattern;
 
 import structural_patterns.Composite_pattern.Employee;
 
